@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Adam Nemecek <adamnemecek@gmail.com>"]
 edition = "2018"
 description = "Implementatino of webaudio standard in Rust"
-license = ["MIT"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
